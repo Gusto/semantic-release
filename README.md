@@ -29,6 +29,8 @@
   </a>
 </p>
 
+## **PLEASE READ:** This fork is only for use in a very specific Gusto use case. Please use the original [semantic-release](https://github.com/semantic-release/semantic-release)
+
 **semantic-release** automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package.
 
 This removes the immediate connection between human emotions and version numbers, strictly following the [Semantic Versioning](http://semver.org) specification.
